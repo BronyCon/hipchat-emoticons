@@ -21,6 +21,7 @@ This is the current list of emoticons enabled on BronyCon HipChat, these are in 
 | ![(crystallized)](emoticons/crystallized.png)     | (crystallized)   | Emily Bennet  |
 | ![(shotsfired)](emoticons/shotsfired.png)         | (shotsfired)     | Gumball Crash |
 | ![(rabbi)](emoticons/rabbi.png)                   | (rabbi)          | Emily Bennet  |
+| ![(xiagu)](emoticons/blazingstar.png)             | (blazingstar)    | Emily Bennet  |
 | ![(xiagu)](emoticons/xiagu.png)                   | (xiagu)          | Emily Bennet  |
 | ![(manetest)](emoticons/manetest.png)             | (manetest)       | Emily Bennet  |
 | ![(blanktest)](emoticons/blanktest.png)           | (blanktest)      | Emily Bennet  |
