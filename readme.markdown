@@ -2,26 +2,27 @@
 
 This is the current list of emoticons enabled on BronyCon HipChat, these are in addition to the default which come with HipChat ([Handy List](http://hipchat-emoticons.nyh.name/)). Should be noted that this list is only temporary and intended to be replaced with a more uniform set created by the Design/Brand team.
 
-+ ![(doge)](emoticons/doge.png) (doge)
-+ ![(Gumball)](emoticons/gumball.png) (gumball)
-+ ![(lauren)](emoticons/lauren.png) (lauren)
-+ ![(fluffle)](emoticons/fluffle.png) (fluffle)
-+ ![(dashie)](emoticons/dashie.gif) (dashie)
-+ ![(veto)](emoticons/veto.gif) (veto)
-+ ![(backgroundpony)](emoticons/backgroundpony.png) (backgroundpony)
-+ ![(blankcanvas)](emoticons/blankcanvas.png) (blankcanvas)
-+ ![(hoofbeatz)](emoticons/hoofbeatz.png) (hoofbeatz)
-+ ![(maneevent)](emoticons/maneevent.png) (maneevent)
-+ ![(imjoshdean)](emoticons/imjoshdean.png) (imjoshdean)
-+ ![(bestpony)](emoticons/bestpony.png) (bestpony)
-+ ![(bestponi)](emoticons/bestponi.png) (bestponi)
-+ ![(bestpone)](emoticons/bestpone.png) (bestpone)
-+ ![(crystallized)](emoticons/crystallized.png) (crystallized)
-+ ![(shotsfired)](emoticons/shotsfired.png) (shotsfired)
-+ ![(rabbi)](emoticons/rabbi.png) (rabbi)
-+ ![(xiagu)](emoticons/xiagu.png) (xiagu)
-+ ![(blazingstar)](emoticons/blazingstar.png) (blazingstar)
-+ ![(manetest)](emoticons/manetest.png) (manetest)
-+ ![(blanktest)](emoticons/blanktest.png) (blanktest)
-+ ![(hooftest)](emoticons/hooftest.png) (hooftest)
-+ ![(goldstar)](emoticons/goldstar.gif) (goldstar)
+|                       Image                       |     Shortcut     |  Uploaded By  |
+| ------------------------------------------------- | ---------------- | ------------- |
+| ![(doge)](emoticons/doge.png)                     | (doge)           | Emily Bennet  |
+| ![(Gumball)](emoticons/gumball.png)               | (gumball)        | Emily Bennet  |
+| ![(lauren)](emoticons/lauren.png)                 | (lauren)         | Emily Bennet  |
+| ![(fluffle)](emoticons/fluffle.png)               | (fluffle)        | Emily Bennet  |
+| ![(dashie)](emoticons/dashie.gif)                 | (dashie)         | Emily Bennet  |
+| ![(veto)](emoticons/veto.jpg)                     | (veto)           | John Feulner  |
+| ![(backgroundpony)](emoticons/backgroundpony.png) | (backgroundpony) | John Feulner  |
+| ![(blankcanvas)](emoticons/blankcanvas.png)       | (blankcanvas)    | Emily Bennet  |
+| ![(hoofbeatz)](emoticons/hoofbeatz.png)           | (hoofbeatz)      | Emily Bennet  |
+| ![(maneevent)](emoticons/maneevent.png)           | (maneevent)      | Emily Bennet  |
+| ![(imjoshdean)](emoticons/imjoshdean.png)         | (imjoshdean)     | Emily Bennet  |
+| ![(bestpony)](emoticons/bestpony.png)             | (bestpony)       | Emily Bennet  |
+| ![(bestponi)](emoticons/bestponi.png)             | (bestponi)       | Emily Bennet  |
+| ![(bestpone)](emoticons/bestpone.png)             | (bestpone)       | Emily Bennet  |
+| ![(crystallized)](emoticons/crystallized.png)     | (crystallized)   | Emily Bennet  |
+| ![(shotsfired)](emoticons/shotsfired.png)         | (shotsfired)     | Gumball Crash |
+| ![(rabbi)](emoticons/rabbi.png)                   | (rabbi)          | Emily Bennet  |
+| ![(xiagu)](emoticons/xiagu.png)                   | (xiagu)          | Emily Bennet  |
+| ![(manetest)](emoticons/manetest.png)             | (manetest)       | Emily Bennet  |
+| ![(blanktest)](emoticons/blanktest.png)           | (blanktest)      | Emily Bennet  |
+| ![(hooftest)](emoticons/hooftest.png)             | (hooftest)       | Emily Bennet  |
+| ![(goldstar)](emoticons/goldstar.gif)             | (goldstar)       | Rachel Viniar |
