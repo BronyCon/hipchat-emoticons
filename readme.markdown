@@ -1,0 +1,27 @@
+# BronyCon HipChat Custom Emoticons
+
+This is the current list of emoticons enabled on BronyCon HipChat, these are in addition to the default which come with HipChat ([Handy List](http://hipchat-emoticons.nyh.name/)). Should be noted that this list is only temporary and intended to be replaced with a more uniform set created by the Design/Brand team.
+
++ ![(doge)](emoticons/doge.png) (doge)
++ ![(Gumball)](emoticons/gumball.png) (gumball)
++ ![(lauren)](emoticons/lauren.png) (lauren)
++ ![(fluffle)](emoticons/fluffle.png) (fluffle)
++ ![(dashie)](emoticons/dashie.png) (dashie)
++ ![(veto)](emoticons/veto.png) (veto)
++ ![(backgroundpony)](emoticons/backgroundpony.png) (backgroundpony)
++ ![(blankcanvas)](emoticons/blankcanvas.png) (blankcanvas)
++ ![(hoofbeatz)](emoticons/hoofbeatz.png) (hoofbeatz)
++ ![(maneevent)](emoticons/maneevent.png) (maneevent)
++ ![(imjoshdean)](emoticons/imjoshdean.png) (imjoshdean)
++ ![(bestpony)](emoticons/bestpony.png) (bestpony)
++ ![(bestponi)](emoticons/bestponi.png) (bestponi)
++ ![(bestpone)](emoticons/bestpone.png) (bestpone)
++ ![(crystallized)](emoticons/crystallized.png) (crystallized)
++ ![(shotsfired)](emoticons/shotsfired.png) (shotsfired)
++ ![(rabbi)](emoticons/rabbi.png) (rabbi)
++ ![(xiagu)](emoticons/xiagu.png) (xiagu)
++ ![(blazingstar)](emoticons/blazingstar.png) (blazingstar)
++ ![(manetest)](emoticons/manetest.png) (manetest)
++ ![(blanktest)](emoticons/blanktest.png) (blanktest)
++ ![(hooftest)](emoticons/hooftest.png) (hooftest)
++ ![(goldstar)](emoticons/goldstar.png) (goldstar)
